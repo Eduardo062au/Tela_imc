@@ -61,8 +61,9 @@ public class Pessoa {
     }
     //--------------------------------------------------------
 
-    public float calcularIMC(){
-        this.imc = this.peso / (this.altura * this.altura);
+    public float calcularIMC() {
+        float alturaMetros = this.altura / 100; // conversão cm → m
+        this.imc = this.peso / (alturaMetros * alturaMetros);
         return this.imc;
     }
 
