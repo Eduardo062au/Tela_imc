@@ -1,0 +1,3 @@
+kjghjsgad;170,00;80,00;27,68;Sobrepeso
+sfadfaz;170,00;80,00;27,68;Sobrepeso
+eduardo;170,00;70,00;24,22;Peso normal
